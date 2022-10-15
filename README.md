@@ -2,7 +2,7 @@
 - 👀 I’m interested in data analysis and areas related
 - 🌱 I’m currently learning C language, python and algorythims
 - 📫 How to reach me: david.lanatahara@gmail.com
-- uses: Platane/snk@v2
+ uses: Platane/snk@v2
   with: github_user_name: ${{ github.davidtahara }}
 
     # list of files to generate.
