@@ -17,4 +17,4 @@ At the moment, im studiying and/or am able to use:
 
 If you want to contact me, please reach me at:
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:david.lanatahara@gmail.com?subject=[GitHub]%20Contact)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:david.lanatahara@gmail.com)
