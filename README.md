@@ -1,6 +1,7 @@
 # :question: About Me
 
 Hello! Im David, an Information Systems undergraduate at Universidade Federal de Santa Maria [(UFSM)](https://www.ufsm.br), Brazil.
+
 Here i will be occasionally posting some projects from college, personal, and projects i find interesting in general.
 
 # Abilities
